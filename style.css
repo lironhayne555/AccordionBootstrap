@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div#accordionFlushExample{
+    width: 80vw;
+}
+h2#accordion-title{
+    background-color: #758ECD;
+    height: 72px;
+    text-align: center;
+    color: white;
+    line-height: 65px;
+}
+button.accordion-button:hover{
+    background-color: #C1CEFE ;
+    
+}
+h2.accordion-header:hover{
+    border: 1px solid #0d3cf0;
+}
+div.accordion-body{
+    text-align: left;
+}
+div.food-text{
+    margin-left: 2px;
+}
